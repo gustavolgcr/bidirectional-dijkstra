@@ -40,12 +40,6 @@
 		</dependency>
 
 		<dependency>
-			<groupId>de.morbz</groupId>
-			<artifactId>osmpoispbf</artifactId>
-			<version>1.1</version>
-		</dependency>
-
-		<dependency>
 			<groupId>com.github.davidmoten</groupId>
 			<artifactId>rtree</artifactId>
 			<version>0.6.9</version>
